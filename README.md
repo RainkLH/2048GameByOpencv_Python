@@ -1,2 +1,2 @@
 # 2048GameByOpencv_Python
-2048 games implemented by opencv Python
+2048game implemented by opencv-Python
